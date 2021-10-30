@@ -15,6 +15,26 @@
 body {
   font-family: "Josefin Sans", sans-serif;
 }
+
+span {
+  color: var(--Desaturated-Red);
+  font-weight: 300;
+}
+
+.headline {
+  text-align: center;
+}
+
+.info {
+  text-align: center;
+}
+
+.arrow {
+  background-color: var(--Soft-Red);
+  padding: 7px 12px;
+  border-radius: 50%;
+}
+
 /* <style>
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
